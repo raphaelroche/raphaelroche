@@ -50,6 +50,16 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
     - 🇫🇷 Développer mes compétences en C
     - 🇬🇧 Develop my C skills
 
+## Statistiques / Statistics
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelroche&theme=2077" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelroche&theme=2077" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelroche1&theme=2077" alt="General Stats"/>
+</p>
 ## Contact
 
 - **Email :** raphael.roche@etu.unistra.fr
