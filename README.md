@@ -42,9 +42,6 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
   <img src="https://skillicons.dev/icons?i=debian,git,idea,clion" alt="My Tools">
 </p>
 
-- 🇫🇷 Bases en administration système, ligne de commande Linux.
-- 🇬🇧 Fundamentals of system administration, Linux command line.
-
 ## Objectifs / Goals
 
 - **Objectif à court terme / Short term goal :** 
@@ -63,7 +60,7 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelroche&theme=2077" alt="Top Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelroche1&theme=2077" alt="General Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelroche1&theme=2077"/>
 </p>
 ## Contact
 
