@@ -52,7 +52,7 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
 
 ## Contact
 
-- **Email :** <a href="mailto:raphael.roche@etu.unistra.fr"></a>
+- **Email :** raphael.roche@etu.unistra.fr
 
 🇫🇷  Merci de visiter mon README ! N'hésitez pas à me contacter pour toute question.
 \
