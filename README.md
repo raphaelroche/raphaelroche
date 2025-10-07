@@ -34,7 +34,7 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
 ### Mes outils / My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu, git,idea,clion " alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=debian,git,idea,clion" alt="My Tools">
 </p>
 
 - 🇫🇷 Bases en administration système, cybersécurité offensive et ligne de commande Linux.
