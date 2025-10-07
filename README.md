@@ -1,4 +1,9 @@
 ## Présentation
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raphaël%20Roche&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20in%20Progress&descSize=20&descAlignY=55&animation=twinkling)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</p>
 
 🇫🇷 
 \
