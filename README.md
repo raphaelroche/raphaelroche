@@ -33,13 +33,13 @@ Hello ! I am Raphaël, I'm 19 years old and I am currently studying computer sci
 ### Mes compétences / My skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,php,bash,sqlite,godot" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,js,css,c,cs,dotnet,java,php,react,laravel,bash,sqlite,godot" alt="My Skills">
 </p>
 
 ### Mes outils / My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,git,idea,clion,react,laravel" alt="My Tools">
+  <img src="https://skillicons.dev/icons?i=debian,git,idea,clion" alt="My Tools">
 </p>
 
 ## Objectifs / Goals
